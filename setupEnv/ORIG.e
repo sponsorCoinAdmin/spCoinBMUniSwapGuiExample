@@ -16,6 +16,6 @@ alias vbrc="vi ~/.bashrc"
 #SET UP ALIASES
 . $SPONSOR_COIN_ENV"/.a"
 . $SPONSOR_COIN_ENV"/.t"
-alias  cdspc="cd $SPONSOR_COIN_HOME"
+alias cdspc="cd $SPONSOR_COIN_HOME"
 cdspc
 tm
