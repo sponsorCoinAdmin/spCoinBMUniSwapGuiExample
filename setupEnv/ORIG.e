@@ -1,3 +1,4 @@
+
 set -o vi
 alias vs="code"
 
@@ -9,7 +10,7 @@ alias vme="vi $SPONSOR_COIN_ENV/.me;me"
 
 # DIRECTORY EDITING SETTINGS
 alias cdenv="cd $SPONSOR_COIN_ENV"
-alias cdsc=cdspc="cd $SPONSOR_COIN_HOME"
+alias cdspc="cd $SPONSOR_COIN_HOME"
 alias vbrc="vi ~/.bashrc"
 
 #SET UP ALIASES
