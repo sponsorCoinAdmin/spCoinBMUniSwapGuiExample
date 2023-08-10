@@ -12,7 +12,6 @@ echo "SPONSOR_COIN_LOGS=$SPONSOR_COIN_LOGS"
 echo ""
 
 echo "Adding startup environment configuration Files For Sponsor Coin $SPONSOR_COIN_ENV/.e"
-mkdir $SPONSOR_COIN_ENV
 echo "export SPONSOR_COIN_ENV=$SPONSOR_COIN_ENV    " | tee -a $SPONSOR_COIN_ENV/.e
 echo "export SPONSOR_COIN_SETUP=$SPONSOR_COIN_SETUP" | tee -a $SPONSOR_COIN_ENV/.e
 echo "export SPONSOR_COIN_HOME=$SPONSOR_COIN_HOME  " | tee -a $SPONSOR_COIN_ENV/.e
