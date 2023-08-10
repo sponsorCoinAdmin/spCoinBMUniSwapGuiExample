@@ -26,11 +26,11 @@ echo ". "$SPONSOR_COIN_ENV"/.e" | tee -a ~/.bashrc
 
 # GOOD TO HERE
 
-echo "Installing the Node Libraries"
-echo "CHANGING TO DIRECTORY "$SPONSOR_COIN_HOME
-cd $SPONSOR_COIN_HOME
-echo "EXECUTING COMMAND npm i"
-npm i
+# echo "Installing the Node Libraries"
+# echo "CHANGING TO DIRECTORY "$SPONSOR_COIN_HOME
+# cd $SPONSOR_COIN_HOME
+# echo "EXECUTING COMMAND npm i"
+# npm i
 
 echo ""
 echo "*** IMPORTANT SETUP NOTE ***"
