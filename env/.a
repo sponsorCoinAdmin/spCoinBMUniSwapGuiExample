@@ -1,0 +1,8 @@
+# GENERAL ALIAS MANAGEMENT
+alias a=". $SPONSOR_COIN_ENV/.a"
+alias am=". $SPONSOR_COIN_ENV/.am"
+alias va="vi $SPONSOR_COIN_ENV/.a;a"
+alias vam="vi $SPONSOR_COIN_ENV/.am;am"
+
+# TESTING ALIAS COMMAND'S
+alias nstart="node start // Starts the app in the node server"
