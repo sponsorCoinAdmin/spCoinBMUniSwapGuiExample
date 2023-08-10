@@ -1,5 +1,5 @@
 export SPONSOR_COIN_SETUP=$PWD;
-export SPONSOR_COIN_HOME=${SPONSOR_COIN_SETUP%/*};
+export SPONSOR_COIN_HOME=${SPONSOR_COIN_SETU/*};
 export SPONSOR_COIN_ROOT=${SPONSOR_COIN_HOME%/*};
 export SPONSOR_COIN_ENV=$SPONSOR_COIN_HOME/env;
 export SPONSOR_COIN_LOGS=$SPONSOR_COIN_HOME/logs
@@ -24,13 +24,11 @@ echo "Adding sponsor coin startup configuration Files to bootstrap file ~/.basch
 echo ". "$SPONSOR_COIN_ENV"/.e" | tee -a ~/.bashrc
 . $SPONSOR_COIN_ENV/.e
 
-# GOOD TO HERE
-
-# echo "Installing the Node Libraries"
-# echo "CHANGING TO DIRECTORY "$SPONSOR_COIN_HOME
-# cd $SPONSOR_COIN_HOME
-# echo "EXECUTING COMMAND npm i"
-# npm i
+echo "Installing the Node Libraries"
+echo "CHANGING TO DIRECTORY "$SPONSOR_COIN_HOME
+cd $SPONSOR_COIN_HOME
+echo "EXECUTING COMMAND npm i"
+npm i
 
 echo ""
 echo "*** IMPORTANT SETUP NOTE ***"
