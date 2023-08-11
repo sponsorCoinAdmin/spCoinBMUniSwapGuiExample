@@ -29,7 +29,7 @@ echo "CHANGING TO DIRECTORY "$SPONSOR_COIN_HOME
 cd $SPONSOR_COIN_HOME
 echo "EXECUTING COMMAND npm i"
 npm i
-npm audit fix --force
+#npm audit fix --force
 
 echo ""
 echo "*** IMPORTANT SETUP NOTE ***"
