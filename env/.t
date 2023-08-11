@@ -6,4 +6,5 @@ alias vtm="vi $SPONSOR_COIN_ENV/.tm;tm"
 
 # TESTING ALIAS COMMAND'S
 // The app in the node server
-alias run=test=runserver='cd $SPONSOR_COIN_HOME; npm start'
+alias runserver='cd $SPONSOR_COIN_HOME; npm start'
+alias startserver='cd $SPONSOR_COIN_HOME; npm start'
