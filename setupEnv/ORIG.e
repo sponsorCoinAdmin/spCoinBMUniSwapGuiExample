@@ -10,12 +10,12 @@ alias vme="vi $SPONSOR_COIN_ENV/.me;me"
 
 # DIRECTORY EDITING SETTINGS
 alias cdenv="cd $SPONSOR_COIN_ENV"
+alias cdsetup="cd $SPONSOR_COIN_SETUP"
 alias cdspc="cd $SPONSOR_COIN_HOME"
+alias cdroot="cd $SPONSOR_COIN_ROOT"
+alias cdt=cdtest"cd $SPONSOR_COIN_HOME"
 alias vbrc="vi ~/.bashrc"
 
 #SET UP ALIASES
 . $SPONSOR_COIN_ENV"/.a"
 . $SPONSOR_COIN_ENV"/.t"
-alias cdspc="cd $SPONSOR_COIN_HOME"
-cdspc
-tm
