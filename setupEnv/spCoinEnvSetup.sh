@@ -24,11 +24,11 @@ echo "Adding sponsor coin startup configuration Files to bootstrap file ~/.basch
 echo ". "$SPONSOR_COIN_ENV"/.e" | tee -a ~/.bashrc
 . $SPONSOR_COIN_ENV/.e
 
-# echo "Installing the Node Libraries"
-# echo "CHANGING TO DIRECTORY "$SPONSOR_COIN_HOME
-# cd $SPONSOR_COIN_HOME
-# echo "EXECUTING COMMAND npm i"
-# npm i
+echo "Installing the Node Libraries"
+echo "CHANGING TO DIRECTORY "$SPONSOR_COIN_HOME
+cd $SPONSOR_COIN_HOME
+echo "EXECUTING COMMAND npm i"
+npm i
 
 echo ""
 echo "*** IMPORTANT SETUP NOTE ***"
