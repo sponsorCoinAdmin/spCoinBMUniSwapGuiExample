@@ -1,1 +1,0 @@
-// SponsorCoin Test Env Setup
