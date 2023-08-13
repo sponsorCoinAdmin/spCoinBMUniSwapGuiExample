@@ -36,8 +36,8 @@ Read all copyright clauses and information before continuing to download and/or 
 - The user is free to modify the code as required. 
 - There may not be any associated uninstal script. Uninstalling any such software or its effects on your system is the owners responsibility.
 - It is recommended to be installed on a test system in a test environment before promoting to a production environment.
-<b>**INSTALL AT OWN RISK: END OF DISCLAIMER</b><img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/caution.png" width="6%" align= "right">
--<b>
+- There is absolutly no guarantee of profit in any way, implying there should not be any expectation of financial gain while utilizing this application development kit.
+<b>**INSTALL AT OWN RISK: END OF DISCLAIMER</b><img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/caution.png" width="6%" align= "right">-<b>
  <BR>
  
  - - - -
