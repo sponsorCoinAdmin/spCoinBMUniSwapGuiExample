@@ -80,7 +80,7 @@ It is recommended to read the contents of the scripts to be assured of the insta
 
 ### About the Authors
 ![Author Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
-- Name: Robin Melanson
+- Name: Robert Lanson
 - Email: robin.e.melanson@gmail.com
 
 [Back To The Top](#directory-of-information)
