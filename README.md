@@ -37,6 +37,8 @@ Read all copyright clauses and information before continuing to download and/or 
 
 - - - -
 ### About <img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/aboutMickey.png" width="6%" align= "right">
+
+https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png
 - Version: 1.0.0
 - Release Date: Sept 1st 2023
 - Purpose: 'spCoinUniSwap' is a WIP GUI front end package to demonstrate blockChain connectivity and transactions.
