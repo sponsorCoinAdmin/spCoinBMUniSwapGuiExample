@@ -79,9 +79,8 @@ It is recommended to read the contents of the scripts to be assured of the insta
 [![AWS MIGRATION](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/maxresdefault.jpg)](https://youtu.be/T_d5-y8hpYI "AWS Migration")
 
 ### About the Authors
-![Author Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
 ![Author Image](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/RobinPhoto.jpg)
 - Name: Robert Lanson
-- Email: robin.e.melanson@gmail.com
+- Email: sponsorcoin@yahoo.com
 
 [Back To The Top](#directory-of-information)
