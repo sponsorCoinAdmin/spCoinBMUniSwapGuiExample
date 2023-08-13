@@ -1,4 +1,4 @@
-# spCoinUniSwapTests ©<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/boot1.png" width="6%" align= "right">
+# spCoinUniSwapTests ©<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//boot1.png" width="6%" align= "right">
 ---
 ### Directory of Information
 Find your way using our directory below:
@@ -17,7 +17,7 @@ Find your way using our directory below:
 Robin Melanson  | robin.e.melanson@gmail.com
 
  - - - -
-### Copyright Agreement <b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> <img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/policeman.png" width="5%" align= "right">
+### Copyright Agreement <b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//policeman.png" width="5%" align= "right">
 
 Read all copyright clauses and information before continuing to download and/or interact with such software. All interaction and use of such software from hereon forward assumes full responsibility of complete agreement to all copyright terms and general conditions as specified. 
 
@@ -28,23 +28,23 @@ Read all copyright clauses and information before continuing to download and/or 
 - There may not be any associated uninstal script. Uninstalling any such software or its effects on your system is the owners responsibility.
 - It is recommended to be installed on a test system in a test environment before promoting to a production environment.
 - There is absolutly no guarantee of profit in any way, implying there should not be any expectation of financial gain while utilizing this application development kit.
-- <b>**INSTALL AT YOUR OWN RISK: END OF DISCLAIMER</b><img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/caution.png" width="6%" align= "right">-</b>
+- <b>**INSTALL AT YOUR OWN RISK: END OF DISCLAIMER</b><img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//caution.png" width="6%" align= "right">-</b>
  <BR>
  
  - - - -
-### Repository Information <img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/repository.png" width="5%" align= "right">
+### Repository Information <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//repository.png" width="5%" align= "right">
 - https://github.com/sponsorCoinAdmin/spCoinUniSwapTests
 
 - - - -
-### About <img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/aboutMickey.png" width="6%" align= "right">
+### About <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//aboutMickey.png" width="6%" align= "right">
 
-https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png
+### About <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
 - Version: 1.0.0
 - Release Date: Sept 1st 2023
 - Purpose: 'spCoinUniSwap' is a WIP GUI front end package to demonstrate blockChain connectivity and transactions.
 - Description: 'spCoinUniSwap' package is a front end GUI package mimicking Uniswap's apearance and the uniswap's SDK to perform price matching and trade transactions. 
  - - - -
-### Installation Details<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/installation.png" width="7%" align= "right">
+### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
 - clone the package to your local computer:
 - change your current directory to {root installaction}/spCoinUniSwapTests
@@ -54,7 +54,7 @@ https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
  - - - -
-### Package Contents<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/contents.png" width="6%" align= "right">
+### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//contents.png" width="6%" align= "right">
 
 - README.md ~ Readme Documentation
 - masterBootstrap.sh  ~ Installs Master Bootstrap Package (This Package)
@@ -67,7 +67,7 @@ https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png
     - *Notes: Not all software is guaranteed to be complete.
    - ** (WIP**): indicates work is on going and package may not be stable or even usable.
  - - - -
-### Running the Package<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/running2.png" width="6%" align= "right">
+### Running the Package<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//running2.png" width="6%" align= "right">
 It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed.  There may not be an associated uninstalling script, so uninstalling is the owners responsibility.
 - There are two ways to install any of the packages listed under contents as file Format Type (??...??Bootstrap.sh).
   - 1. Upon installation of a new Linux installation as a bootstrap simply add the file to the Linux initialization bootstrap.
@@ -75,10 +75,10 @@ It is recommended to read the contents of the scripts to be assured of the insta
        - execute as root ./??...??Bootstrap.sh
        - or as user with sudo access sudo ./??...??Bootstrap.sh
  - - - -
-### Video Tutorial<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/video.png" width="5%" align= "right">
+### Video Tutorial<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//video.png" width="5%" align= "right">
 - Comprehensive Video Tutorial Currently Under Construction. Resource will be posted as soon as it is ready for publication.
 
-[![AWS MIGRATION](https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/maxresdefault.jpg)](https://youtu.be/T_d5-y8hpYI "AWS Migration")
+[![AWS MIGRATION](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//maxresdefault.jpg)](https://youtu.be/T_d5-y8hpYI "AWS Migration")
 
 ### About the Authors
 ![Author Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
