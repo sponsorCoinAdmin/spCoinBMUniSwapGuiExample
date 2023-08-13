@@ -47,17 +47,10 @@ Read all copyright clauses and information before continuing to download and/or 
 - clone the package to your local computer:
 - change your current directory to {root installaction}/spCoinUniSwapTests
 - Next install the text menu driven system as follows:
-   - execute the following command: <b>. ./spCoinEnvSetup.sh</b>
-- <b>NOTE: This installation assumes operation under bash or gitBash for windows</b>
-
-In the project root directory, start the project with the following command:
-npm start
-  - Execute as root ./masterBootstrap.sh
-  - Alternatively, execute as user with sudo access sudo ./masterBootstrap.sh
-- Note: 
-    - All script packages are installed under /tmp/scripts directory and may be analyzed in that directory.
-    - You may modify the script installation file (xx...xxBootstrap.sh) to change the directory package installation location.
-    - Upon Completion of installation, the installation directory and all contents may be removed.
+    - execute the following command: <b>. ./spCoinEnvSetup.sh</b>
+- <b>Notes:
+    - This installation assumes operation under bash or gitBash for windows</b>
+    - The Menu System modifies the ~/gitbash.rc file to and an environment path link
  - - - -
 ### Package Contents<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/contents.png" width="6%" align= "right">
 
