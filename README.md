@@ -1,4 +1,3 @@
-# sponsorCoinBeneficiarySwapPage
 Switch to the project Root Directory, 
 Currently the project root directory is /.sponsorcoin-beneficiary-swap-page
 Update all Node Packages with command "npm i".
@@ -37,7 +36,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - There may not be any associated uninstal script. Uninstalling any such software or its effects on your system is the owners responsibility.
 - It is recommended to be installed on a test system in a test environment before promoting to a production environment.
 - There is absolutly no guarantee of profit in any way, implying there should not be any expectation of financial gain while utilizing this application development kit.
-<b>**INSTALL AT OWN RISK: END OF DISCLAIMER</b><img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/caution.png" width="6%" align= "right">-<b>
+- <b>**INSTALL AT YOUR OWN RISK: END OF DISCLAIMER</b><img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/caution.png" width="6%" align= "right">-<b>
  <BR>
  
  - - - -
