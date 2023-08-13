@@ -80,6 +80,7 @@ It is recommended to read the contents of the scripts to be assured of the insta
 
 ### About the Authors
 ![Author Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
+![Author Image](https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/RobinPhoto.jpg)
 - Name: Robert Lanson
 - Email: robin.e.melanson@gmail.com
 
