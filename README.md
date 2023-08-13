@@ -45,10 +45,10 @@ Read all copyright clauses and information before continuing to download and/or 
 ### Installation Details<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
 - clone the package to your local computer:
-- <b>NOTE: This installation assumes operation under bash or gitBash for windows</b>
 - change your current directory to {root installaction}/spCoinUniSwapTests
-- # Next install the text menu driven system as follows:
-- execute the following command: <b>. ./spCoinEnvSetup.sh</b>
+- Next install the text menu driven system as follows:
+   - execute the following command: <b>. ./spCoinEnvSetup.sh</b>
+- <b>NOTE: This installation assumes operation under bash or gitBash for windows</b>
 
 In the project root directory, start the project with the following command:
 npm start
