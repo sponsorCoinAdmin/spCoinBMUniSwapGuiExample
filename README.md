@@ -1,12 +1,4 @@
-Switch to the project Root Directory, 
-Currently the project root directory is /.sponsorcoin-beneficiary-swap-page
-Update all Node Packages with command "npm i".
-
-In the project root directory, start the project with the following command:
-npm start
-
-
-# sponsorCoinBeneficiarySwapPage ©<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/boot1.png" width="6%" align= "right">
+# spCoinUniSwapTests ©<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/boot1.png" width="6%" align= "right">
 ---
 ### Directory of Information
 Find your way using our directory below:
@@ -46,13 +38,20 @@ Read all copyright clauses and information before continuing to download and/or 
 - - - -
 ### About <img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/aboutMickey.png" width="6%" align= "right">
 - Version: 1.0.0
-- Release Date: May 06 2018
+- Release Date: Sept 1st 2023
 - Purpose: 'spCoinUniSwap' is a WIP GUI front end package to demonstrate blockChain connectivity and transactions.
 - Description: 'spCoinUniSwap' package is a front end GUI package mimicking Uniswap's apearance and the uniswap's SDK to perform price matching and trade transactions. 
  - - - -
 ### Installation Details<img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
-- Execute the masterBootstrap.sh*, upon installation of a new Linux installation as a bootstrap or as a stand alone bash script. If executing the script manually on a Linux O.S. after downloading from the git repository, be sure to:
+- clone the package to your local computer:
+- <b>NOTE: This installation assumes operation under bash or gitBash for windows</b>
+- change your current directory to {root installaction}/spCoinUniSwapTests
+- # Next install the text menu driven system as follows:
+- execute the following command: <b>. ./spCoinEnvSetup.sh</b>
+
+In the project root directory, start the project with the following command:
+npm start
   - Execute as root ./masterBootstrap.sh
   - Alternatively, execute as user with sudo access sudo ./masterBootstrap.sh
 - Note: 
