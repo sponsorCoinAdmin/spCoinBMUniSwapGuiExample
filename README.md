@@ -41,7 +41,7 @@ Read all copyright clauses and information before continuing to download and/or 
  
  - - - -
 ### Repository Information <img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/repository.png" width="5%" align= "right">
-- https://github.com/RMelanson/linux-scripts-bootstraps.git
+- https://github.com/sponsorCoinAdmin/spCoinUniSwapTests
 
 - - - -
 ### About <img src="https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/aboutMickey.png" width="6%" align= "right">
