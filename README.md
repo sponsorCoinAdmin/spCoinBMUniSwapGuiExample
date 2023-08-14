@@ -71,7 +71,7 @@ After a new Linux/gitBash successful installation you can start the program dire
 ### Video Tutorial<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/video.png" width="5%" align= "right">
 - Comprehensive Video Tutorial Currently Under Construction. Resource will be posted as soon as it is ready for publication.
 
-[![<b>ToDo</b>](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/maxresdefault.jpg)](https://youtu.be/T_d5-y8hpYI "AWS Migration")
+<b>[![ToDo](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/maxresdefault.jpg)]</b>(https://youtu.be/T_d5-y8hpYI "AWS Migration")
 
 ### About the Authors
 ![<b>Author Image</b>](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/RobinPhoto.jpg)
