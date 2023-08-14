@@ -18,7 +18,7 @@ Robert Lanson  | sponsorcoin@yahoo.com
 
 - - - -
 ### Copyright Agreement<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/policeman.png" width="5%" align= "right">
-<b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> 
+<b>Package [<b>spCoinUniSwap</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) ©</b> 
 
 Read all copyright clauses and information before continuing to download and/or interact with this software. All interaction and use of such software hereon forward assumes complete agreement to all copyright terms and general conditions as specified. 
 
