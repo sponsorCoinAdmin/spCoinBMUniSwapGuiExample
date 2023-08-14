@@ -2,7 +2,7 @@
 ---
 ### Directory of Information
 Find your way using our directory below:
-
+<b>
 - [Legal Disclaimer & Copyright Agreement ©](#copyright-agreement)
 - [Repository](#repository-information)
 - [About](#about)
@@ -11,7 +11,7 @@ Find your way using our directory below:
 - [Running the Package](#running-the-package)
 - [Video Tutorial](#video-tutorial)
 - [About the Author](#about-the-authors)
- 
+ </b>
  Name  | Key Contact
 ------------- | -------------
 Robert Lanson  | sponsorcoin@yahoo.com
@@ -34,7 +34,7 @@ Read all copyright clauses and information before continuing to download and/or 
  
  - - - -
 ### Repository Information<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/repository.png" width="5%" align= "right">
-- https://github.com/sponsorCoinAdmin/spCoinUniSwapTests
+- <b>https://github.com/sponsorCoinAdmin/spCoinUniSwapTests</b>
 
 - - - -
 ### About<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
