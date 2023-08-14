@@ -53,6 +53,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - <b>Notes:
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
+
 ### Menu<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
  - - - -
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
