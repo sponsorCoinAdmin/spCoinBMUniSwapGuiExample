@@ -57,7 +57,8 @@ Read all copyright clauses and information before continuing to download and/or 
 
 ### Shortcut Command Menu<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
 The <b>Command Menu</b> is a list of chortcut alias commands for administering the [<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) project.
-- if the menu suetem is installed, simply type <b>m <enter></b> in a bash window and the following should appear.
+- if the menu suetem is installed, simply type <b>m <enter></b> in a bash window and the following should appear:
+- ![<b>Author Image</b>](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/mainMenu.jpg)
 
  - - - -
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
