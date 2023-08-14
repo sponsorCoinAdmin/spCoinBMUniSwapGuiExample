@@ -44,8 +44,8 @@ Read all copyright clauses and information before continuing to download and/or 
  - - - -
 ### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
-- clone the package to your local computer:
-- change your current directory to {root installaction}/spCoinUniSwapTests
+- Clone the package to your local computer:
+- Change your current directory to {root installaction}/spCoinUniSwapTests
 - Next install the text menu driven system as follows:
     - execute the following command: <b>. ./spCoinEnvSetup.sh</b>
 - <b>Notes:
