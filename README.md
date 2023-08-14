@@ -17,8 +17,8 @@ Find your way using our directory below:
 Robert Lanson  | sponsorcoin@yahoo.com
 
 - - - -
-### Copyright Agreement 
-<b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/policeman.png" width="5%" align= "right">
+### Copyright Agreement<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/policeman.png" width="5%" align= "right">
+<b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> 
 
 Read all copyright clauses and information before continuing to download and/or interact with this software. All interaction and use of such software hereon forward assumes complete agreement to all copyright terms and general conditions as specified. 
 
