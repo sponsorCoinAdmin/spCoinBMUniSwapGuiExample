@@ -7,7 +7,7 @@ Find your way using our directory below:
 - [Repository](#repository-information)
 - [About](#about)
 - [Installation Documentation](#installation-details)
-- [Shortcut Command Menu](#shortcut-command-menu)
+- [Command Menu Shortcuts](#command-menu-shortcuts)
 - [Package Contents](#package-contents)
 - [Running the Package](#running-the-package)
 - [Video Tutorial](#video-tutorial)
@@ -55,9 +55,9 @@ Read all copyright clauses and information before continuing to download and/or 
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
 
-### Shortcut Command Menu<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
+### Command Menu Shortcuts<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
 The <b>Command Menu</b> is a list of shortcut alias commands for administering the [<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) project.
-- if the menu syetem is installed correctly, simply type <b>m <enter></b> in a bash window and the following should appear:
+- if the menu system is installed correctly, simply type <b>m <enter></b> in a bash window and the following should appear:
 ![<b>Author Image</b>](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/mainMenu.jpg)
 
  - - - -
