@@ -53,7 +53,7 @@ Read all copyright clauses and information before continuing to download and/or 
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
  - - - -
-### [<b>'spCoinUniSwap'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)Tests Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
+### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
 
 - README.md ~ Readme Documentation
 - ./scripts/['<b>spCoinSetup.sh</b>'](https://github.com/sponsorCoinAdmin/[<b>'spCoinUniSwap'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)Tests/blob/main/scripts/spCoinSetup.sh))  ~ This file is to be run from the scripts directory and dounloads the [[<b>'spCoinUniSwap'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)Tests](https://github.com/sponsorCoinAdmin/[<b>'spCoinUniSwap'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)Tests) repository to local. Next it executes the ['<b>spCoinEnvSetup.sh</b>'](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh) file for environment setup.
