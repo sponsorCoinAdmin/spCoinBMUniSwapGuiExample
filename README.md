@@ -4,7 +4,6 @@
 Find your way using our directory below:
 
 - [Legal Disclaimer & Copyright Agreement ©](#copyright-agreement)
-- [tester](#copyright)
 - [Repository](#repository-information)
 - [About](#About)
 - [Installation Documentation](#installation-details)
@@ -17,9 +16,9 @@ Find your way using our directory below:
 ------------- | -------------
 Robert Lanson  | sponsorcoin@yahoo.com
 
- - - - -
-# Copyright
-### Copyright Agreement <b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/policeman.png" width="5%" align= "right">
+- - - -
+### Copyright Agreement 
+<b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/policeman.png" width="5%" align= "right">
 
 Read all copyright clauses and information before continuing to download and/or interact with this software. All interaction and use of such software hereon forward assumes complete agreement to all copyright terms and general conditions as specified. 
 
@@ -34,7 +33,8 @@ Read all copyright clauses and information before continuing to download and/or 
  <BR>
  
  - - - -
-### Repository Information <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/repository.png" width="5%" align= "right">
+### Repository Information
+<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/repository.png" width="5%" align= "right">
 - https://github.com/sponsorCoinAdmin/spCoinUniSwapTests
 
 - - - -
