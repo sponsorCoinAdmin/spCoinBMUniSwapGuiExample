@@ -4,7 +4,7 @@
 Find your way using our directory below:
 
 - [Legal Disclaimer & Copyright Agreement ©](#copyright-agreement)
-- [tester](Copyright)
+- [tester](#copyright)
 - [Repository](#repository-information)
 - [About](#About)
 - [Installation Documentation](#installation-details)
