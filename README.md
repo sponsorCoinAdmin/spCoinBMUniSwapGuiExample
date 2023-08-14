@@ -77,6 +77,6 @@ After a new Linux/gitBash successful installation you can start the program dire
 ![<b>Author Image</b>](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/RobinPhoto.jpg)
 - Name: Robert Lanson
 - Position Lead Architect/CEO
-- Email: sponsorcoin@yahoo.com
+- Email: <b>sponsorcoin@yahoo.com</b>
 
 [<b>Back To The Top</b>](#directory-of-information)
