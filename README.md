@@ -7,6 +7,7 @@ Find your way using our directory below:
 - [Repository](#repository-information)
 - [About](#about)
 - [Installation Documentation](#installation-details)
+- [Menu](#menus)
 - [Package Contents](#package-contents)
 - [Running the Package](#running-the-package)
 - [Video Tutorial](#video-tutorial)
@@ -52,14 +53,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - <b>Notes:
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
-### Menu 1<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 1.jpg" width="7%" align= "right">
-### Menu 2<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 2.jpg" width="7%" align= "right">
-### Menu 3<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 3.jpg" width="7%" align= "right">
-### Menu 4<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
-### Menu 5<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 5.jpg" width="7%" align= "right">
-### Menu 6<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 6.jpg" width="7%" align= "right">
-### Menu 7<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 7.jpg" width="7%" align= "right">
-
+### Menu<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
  - - - -
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
 - [<b>README.md</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/edit/main/README.md) ~ The Readme Documentation is this documentation.
