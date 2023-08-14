@@ -55,7 +55,7 @@ Read all copyright clauses and information before continuing to download and/or 
 ### spCoinUniSwapTests Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
 
 - README.md ~ Readme Documentation
-- ./scripts/spCoinSetup.sh  ~ This file is to be run from the scripts directory and dounloads the https://github.com/sponsorCoinAdmin/spCoinUniSwapTests repository to local. Next it executes the setupEnv/spCoinEnvSetup.sh file for environment setup.
+- ./scripts/spCoinSetup.sh  ~ This file is to be run from the scripts directory and dounloads the [spCoinUniSwapTests](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests) repository to local. Next it executes the setupEnv/spCoinEnvSetup.sh file for environment setup.
 - ./setupEnv/ ~ This directory is a mounted submodule containing files for environment and menu execution commands. refer to the ./setupEnv/[ReadMe.md](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/README.md) for a more complete Overview.
 - ./setupEnv/spCoinEnvSetup.sh ~ This shell creates the environment variable settings and sets up the menues for testing and execution commands in spCoinUniSwapTests.
  - - - -
