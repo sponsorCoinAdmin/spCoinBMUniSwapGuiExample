@@ -1,4 +1,4 @@
-# [<b>'spCoinUniSwap'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)Tests ©<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/boot1.png" width="6%" align= "right">
+# spCoinUniSwap Tests ©<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/boot1.png" width="6%" align= "right">
 ---
 ### Directory of Information
 Find your way using our directory below:
