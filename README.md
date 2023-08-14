@@ -33,12 +33,11 @@ Read all copyright clauses and information before continuing to download and/or 
  <BR>
  
  - - - -
-### Repository Information
-<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/repository.png" width="5%" align= "right">
+### Repository Information<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/repository.png" width="5%" align= "right">
 - https://github.com/sponsorCoinAdmin/spCoinUniSwapTests
 
 - - - -
-### About <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
+### About<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
 - Version: 1.0.0
 - Release Date: Sept 1st 2023
 - Purpose: [<b>'spCoinUniSwap'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) is a WIP GUI front end package to demonstrate blockChain connectivity and transactions.
