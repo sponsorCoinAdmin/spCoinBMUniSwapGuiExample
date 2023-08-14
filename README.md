@@ -40,8 +40,8 @@ Read all copyright clauses and information before continuing to download and/or 
 ### About<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
 - Version: 1.0.0
 - Release Date: Sept 1st 2023
-- Purpose: [<b>'spCoinUniSwap'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) is a WIP GUI front end package to demonstrate blockChain connectivity and transactions.
-- Description: [<b>'spCoinUniSwap'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) package is a front end GUI package mimicking Uniswap's apearance and utilizing uniswap's SDK to perform price matching and trade transactions. 
+- Purpose: [<b>spCoinUniSwap</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) is a WIP GUI front end package to demonstrate blockChain connectivity and transactions.
+- Description: [<b>spCoinUniSwap</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) package is a front end GUI package mimicking Uniswap's apearance and utilizing uniswap's SDK to perform price matching and trade transactions. 
  - - - -
 ### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
