@@ -52,35 +52,31 @@ Read all copyright clauses and information before continuing to download and/or 
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
  - - - -
-### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
+### spCoinUniSwapTests Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
 
 - README.md ~ Readme Documentation
-- masterBootstrap.sh  ~ Installs Master Bootstrap Package (This Package)
-- devToolsBootstrap.sh ~ Installs Standard Linux Development Components as Required.  Ensure that you read through the script and ommit (ex: comment-out) those components you do not want installed.
-- stockWidgetsBootStrap.sh ~ Installs Java Rest API's - Proprietary  Software for Stock Analysis through JBOSS. (WIP**)
-- jbossBootstrap.sh ~ Installs JBOSS wildfly community edition with complete access as admin.
-- mySqlInstall.sh ~ Installs MySQL
-- s3fsBootstrap.sh ~ Installs Amazon Web Services S3 File system to mount S3 as network drives on the linux file system,
-- webBootstrap.sh ~ Installs a basic webserver.
-    - *Notes: Not all software is guaranteed to be complete.
-   - ** (WIP**): indicates work is on going and package may not be stable or even usable.
+- ./scripts/spCoinSetup.sh  ~ This file is to be run from the scripts directory and dounloads the https://github.com/sponsorCoinAdmin/spCoinUniSwapTests repository to local. Next it executes the setupEnv/spCoinEnvSetup.sh file for environment setup.
+- ./setupEnv/ ~ This directory is a mounted submodule containing files for environment and menu execution commands. refer to the ./setupEnv/ReadMe.md for a more complete Overview.
+- ./setupEnv/spCoinEnvSetup.sh ~ This shell creates the environment variable settings and sets up the menues for testing and execution commands in spCoinUniSwapTests.
  - - - -
 ### Running the Package<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/running2.png" width="6%" align= "right">
 It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed.  There may not be an associated uninstalling script, so uninstalling is the owners responsibility.
-- There are two ways to install any of the packages listed under contents as file Format Type (??...??Bootstrap.sh).
-  - 1. Upon installation of a new Linux installation as a bootstrap simply add the file to the Linux initialization bootstrap.
-  - 2. If executing the script manually on a Linux after the O.S. has been installed, be sure to
-       - execute as root ./??...??Bootstrap.sh
-       - or as user with sudo access sudo ./??...??Bootstrap.sh
+  - Add the .env file to the package directory <b>'spCoinUniSwapTests'</b>. This adds the required network access keys.
+
+After a new Linux/gitBash successful installation you can start the program directly in two ways as follows:
+    1. cd into the Package <b>'spCoinUniSwapTests'</b> and execute the command <b>'npm support'</b>.
+    2. Running the menu test display, <b>'mt'</b>, command will list the testing options.
+       running the alias menu command runserver will start the <b>'spCoinEnvSetup.sh'</b> applicatio.
  - - - -
 ### Video Tutorial<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/video.png" width="5%" align= "right">
 - Comprehensive Video Tutorial Currently Under Construction. Resource will be posted as soon as it is ready for publication.
 
-[![AWS MIGRATION](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/maxresdefault.jpg)](https://youtu.be/T_d5-y8hpYI "AWS Migration")
+[![ToDo](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/maxresdefault.jpg)](https://youtu.be/T_d5-y8hpYI "AWS Migration")
 
 ### About the Authors
 ![Author Image](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/RobinPhoto.jpg)
 - Name: Robert Lanson
+- Position Lead Architect/CEO
 - Email: sponsorcoin@yahoo.com
 
 [Back To The Top](#directory-of-information)
