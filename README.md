@@ -7,18 +7,20 @@ Find your way using our directory below:
 - [Repository](#repository-information)
 - [About](#about)
 - [Installation Documentation](#installation-details)
+- [Command Menu Shortcuts](#command-menu-shortcuts)
 - [Package Contents](#package-contents)
 - [Running the Package](#running-the-package)
 - [Video Tutorial](#video-tutorial)
 - [About the Author](#about-the-authors)
  </b>
+ 
  Name  | Key Contact
 ------------- | -------------
 Robert Lanson  | sponsorcoin@yahoo.com
 
 - - - -
 ### Copyright Agreement<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/policeman.png" width="5%" align= "right">
-<b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> 
+<b>Package [<b>spCoinUniSwap</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) ©</b> 
 
 Read all copyright clauses and information before continuing to download and/or interact with this software. All interaction and use of such software hereon forward assumes complete agreement to all copyright terms and general conditions as specified. 
 
@@ -52,6 +54,12 @@ Read all copyright clauses and information before continuing to download and/or 
 - <b>Notes:
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
+
+### Command Menu Shortcuts<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
+The <b>Command Menu</b> is a list of shortcut alias commands for administering the [<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) project.
+- if the menu system is installed correctly, simply type <b>m <enter></b> in a bash window and the following should appear:
+![<b>Author Image</b>](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/mainMenu.jpg)
+
  - - - -
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
 - [<b>README.md</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/edit/main/README.md) ~ The Readme Documentation is this documentation.
@@ -61,7 +69,7 @@ Read all copyright clauses and information before continuing to download and/or 
  - - - -
 ### Running the Package<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/running2.png" width="6%" align= "right">
 It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed.  There may not be an associated uninstalling script, so uninstalling is the owners responsibility.
-  - Add the .env file to the package directory <b>[<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)'</b>. This adds the required network access keys.
+  - Add the .env file to the package directory <b>[<b>spCoinUniSwapTests</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)'</b>. This adds the required network access keys.
 
 After a new Linux/gitBash successful installation you can start the program directly in two ways as follows:
     1. cd into the Package <b>[<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)'</b> and execute the command <b>'npm support'</b>.
