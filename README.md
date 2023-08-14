@@ -48,7 +48,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - Clone the package to your local computer:
 - Change your current directory to {root installaction}/[<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)
 - Next install the text menu driven system as follows:
-    - execute the following command: <b>. ./['<b>spCoinEnvSetup.sh</b>'](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh)</b>
+    - execute the following command: <b>'. ./[<b>spCoinEnvSetup.sh</b>'](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh)</b>
 - <b>Notes:
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
