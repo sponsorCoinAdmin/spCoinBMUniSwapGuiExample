@@ -52,6 +52,8 @@ Read all copyright clauses and information before continuing to download and/or 
 - <b>Notes:
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
+### Menu 1<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 1.png" width="7%" align= "right">
+
  - - - -
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
 - [<b>README.md</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/edit/main/README.md) ~ The Readme Documentation is this documentation.
