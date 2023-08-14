@@ -7,7 +7,7 @@ Find your way using our directory below:
 - [Repository](#repository-information)
 - [About](#about)
 - [Installation Documentation](#installation-details)
-- [spCoinUniSwap Menu](#spcoinuniswap-menu)
+- [Shortcut Command Menu](#shortcut-command-menu)
 - [Package Contents](#package-contents)
 - [Running the Package](#running-the-package)
 - [Video Tutorial](#video-tutorial)
@@ -54,7 +54,7 @@ Read all copyright clauses and information before continuing to download and/or 
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/gitbash.rc file to and an environment path link
 
-### spCoinUniSwap Menu
+### Shortcut Command Menu
 <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
  - - - -
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
