@@ -1,6 +1,6 @@
 clear
 echo "=========================================================================="
-echo "                       ALIAS MENU SETTINGS"
+echo "                        ALIAS MAIN MENU SETTINGS"
 echo "=========================================================================="
 echo "m  = Display this Alias Settings"
 echo "em = Environment Menu Alias Settings"
