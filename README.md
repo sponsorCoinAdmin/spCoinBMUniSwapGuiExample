@@ -14,7 +14,7 @@ Find your way using our directory below:
  
  Name  | Key Contact
 ------------- | -------------
-Robin Melanson  | robin.e.melanson@gmail.com
+Robert Lanson  | sponsorcoin@yahoo.com
 
  - - - -
 ### Copyright Agreement <b>Package-Linux-Scripts-Bootstraps-Legal-Information ©</b> <img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/policeman.png" width="5%" align= "right">
