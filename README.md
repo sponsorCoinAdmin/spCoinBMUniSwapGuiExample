@@ -30,10 +30,9 @@ Read all copyright clauses and information before continuing to download and/or 
 - The user is free to modify the code as required. 
 - There may not be any associated uninstal script. Uninstalling any such software or its effects on any system is the system owners responsibility.
 - It is recommended to be installed on a test system in a test environment before promoting to a production environment.
-- There is absolutely no guarantee of profit in any way, implying there should not be any expectation of financial gain while utilizing this application and associated development kit.
-- <b>**INSTALL AT YOUR OWN RISK: END OF DISCLAIMER</b><img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//caution.png" width="6%" align= "right">-</b>
- <BR>
- 
+- There is absolutely no guarantee of profit in any way, implying there should not be any expectation of financial gain while utilizing this application and associated development kit.</b><img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//caution.png" width="6%" align= "right"></b>
+
+<b>**INSTALL AT YOUR OWN RISK: END OF DISCLAIMER 
  - - - -
 ### Repository Information<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/repository.png" width="5%" align= "right">
 - <b>https://github.com/sponsorCoinAdmin/spCoinUniSwapTests</b>
