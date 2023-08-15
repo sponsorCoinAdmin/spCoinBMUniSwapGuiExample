@@ -1,8 +1,0 @@
-# GENERAL ALIAS MANAGEMENT
-alias a=". $SPONSOR_COIN_ENV/.a"
-alias am=". $SPONSOR_COIN_ENV/.am"
-alias va="vi $SPONSOR_COIN_ENV/.a;a"
-alias vam="vi $SPONSOR_COIN_ENV/.am;am"
-
-alias pm=". $SPONSOR_COIN_ENV/.pm"
-alias vpm="vi $SPONSOR_COIN_ENV/.pm"

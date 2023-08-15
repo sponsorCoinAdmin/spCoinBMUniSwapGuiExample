@@ -1,0 +1,12 @@
+# ALIAS ENVIRONMENT MENU SETTINGS
+alias ea=". $SPONSOR_COIN_ENV/.ea"
+alias em=". $SPONSOR_COIN_ENV/.em"
+alias vea="vi $SPONSOR_COIN_ENV/.ea;ea"
+
+# DIRECTORY EDITING SETTINGS
+alias cdenv="cd $SPONSOR_COIN_ENV"
+alias cdsetup="cd $SPONSOR_COIN_SETUP"
+alias cdspc="cd $SPONSOR_COIN_HOME"
+alias cdroot="cd $SPONSOR_COIN_ROOT"
+alias cdt=cdtest"cd $SPONSOR_COIN_TEST"
+alias vbrc="vi ~/.bashrc; . ~/.bashrc"
