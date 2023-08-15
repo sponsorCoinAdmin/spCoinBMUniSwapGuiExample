@@ -1,6 +1,6 @@
 # spCoinUniSwap Tests ©<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/boot1.png" width="6%" align= "right">
 ---
-### Directory of Information
+### Directory of Information<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/directory.png" width="6%" align= "right">
 Find your way using our directory below:
 <b>
 - [Legal Disclaimer & Copyright Agreement ©](#copyright-agreement)
