@@ -60,15 +60,11 @@ The <b>Command Menu</b> is a list of shortcut alias commands for administering t
 - if the menu system is installed correctly, simply type <b>m <enter></b> in a bash window and the following should appear:
 ![<b>Author Image</b>](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/mainMenu.jpg)
 The above menu is simply the parent of many submenu's. Each entry is an alias to an alternate command menu short cut. Each submenu exists under the repositorie's ./env directory. The following is a list of the submenu's and associated aliaes.
-
-- m ~ vi $SPONSOR_COIN_ENV/.am;am"m  = The parent menu, it is a Menu of Menu's, It displays the menu above.
-- am ~ Alias Menu Stores general project Menu shortcut commands,
-- em ~ Environment Menu Settings Stores environment settings and commands.
-- tm ~ Testing Menu Alias, stores testing shortcut commands.
-- um ~ User Menu Alias, used locally and not saved to remote git repository.
-
-
- - - - -
+- pm = The parent menu, it is a Menu of Menu's, It displays the menu above.
+- em = Environment Menu Settings Stores environment settings and commands.
+- tm = Testing Menu Alias, stores testing shortcut commands.
+- um = User Menu Alias, used locally and not saved to remote git repository.
+- - - -
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
 - [<b>README.md</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/edit/main/README.md) ~ The Readme Documentation is this documentation.
 - [<b>./scripts/spCoinSetup.sh</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/blob/main/scripts/spCoinSetup.sh)  ~ This file is to be run from the scripts directory and dounloads the [<b>spCoinUniSwapTests</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main</b>) repository to local. Next it executes the [<b>spCoinEnvSetup.sh</b>](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh) file for environment setup.
