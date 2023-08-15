@@ -59,7 +59,7 @@ Read all copyright clauses and information before continuing to download and/or 
 The <b>Command Menu</b> is a list of shortcut alias commands for administering the [<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) project.
 - if the menu system is installed correctly, simply type <b>menus <enter></b> in a bash window and the following should appear:
 ![<b>Author Image</b>](https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/mainMenu.jpg)
-The above menu is simply the parent of many submenu's. Each entry is an alias to an alternate command menu short cut. Each submenu exists under the repositorie's ./env directory. The following is a list of the submenu's and associated aliaes.
+The above menu is simply the parent of many submenu's. Each entry is an alias to an alternate command menu short cut. Each submenu exists under the repositorie's ./env directory. Theese menues cane be more completly described in the file [<b>README.md</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/edit/main/README.md).
 
 - - - -
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
