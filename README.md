@@ -79,9 +79,9 @@ It is recommended to read the contents of the scripts to be assured of the insta
   - Add the .env file to the package directory <b>[<b>spCoinUniSwapTests</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)'</b>. This adds the required network access keys.
 
 After a new Linux/gitBash successful installation you can start the program directly in two ways as follows:
-    1. cd into the Package <b>[<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)'</b> and execute the command <b>'npm support'</b>.
-    2. Running the menu test display, <b>'tm'</b>, command will list the testing options.
-       running the alias menu command runserver will start the spCoinEnvSetup.sh</b> application.
+- cd into the Package <b>[<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)'</b> and execute the command <b>'npm start'</b>.
+- Running the menu test display, <b>'tm'</b>, command will list the testing options.
+  running the alias menu command runserver will start the spCoinEnvSetup.sh</b> application.
  - - - -
 ### Video Tutorial<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/video.png" width="6%" align= "right">
 - Comprehensive Video Tutorial Currently Under Construction. Resource will be posted as soon as it is ready for publication.
