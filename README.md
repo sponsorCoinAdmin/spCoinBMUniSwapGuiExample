@@ -1,17 +1,18 @@
-# spCoinUniSwap Tests ©<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/boot1.png" width="6%" align= "right">
+# spCoinUniSwapTests ©<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/boot1.png" width="6%" align= "right">
 ---
 ### Directory of Information<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/directory.png" width="6%" align= "right">
-Find your way using our directory below:
+Find your way using the directory below:
 <b>
 - [Legal Disclaimer & Copyright Agreement ©](#copyright-agreement)
 - [Repository](#repository-information)
 - [About](#about)
-- [Installation Documentation](#installation)
-- [Command Menu Shortcuts](#command-menu-shortcuts)
+- [Installation](#installation)
+- [Environment Setup](#environment-setup)
 - [Package Contents](#package-contents)
+- [Command Menu Shortcuts](#command-menu-shortcuts)
 - [Running the Package](#running-the-package)
 - [Video Tutorial](#video-tutorial)
-- [About the Author](#about-the-authors)
+- [About the Author](#about-the-author)
  </b>
  
  Name  | Key Contact
@@ -54,11 +55,13 @@ Read all copyright clauses and information before continuing to download and/or 
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/.gitbash.rc file to and an environment path link
 ### Environment setup<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/setup6.png" width="7%" align= "right">
-- Setup for the simple swap test requires setting up environment file .env.
-- To do so a key is required for network access.
+- Setup for the simple swap test requires setting up environment .env file.
+- A sample configuration file <b>.env</b> exists in  project's home directory <b>/spCoinUniSwapTests</b>.
+- This file, <b>".env"</b> requires you key to be added for network access.
 - For example, an Infura key entry would look look like:
   - <b>NFURA_API_MAIN_NET_ACCESS_KEY="<Your Infura Key Here></b>"
-- - - -
+- Further environment settings exist in the file <b>/spCoinUniSwapTests/env/.e</b>.
+ - - - - 
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
 - [<b>README.md</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/edit/main/README.md) ~ The Readme Documentation is this documentation.
 - [<b>./scripts/spCoinSetup.sh</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/blob/main/scripts/spCoinSetup.sh)  ~ This file is to be run from the scripts directory and downloads the [<b>spCoinUniSwapTests</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main</b>) repository to local. Next it executes the [<b>spCoinEnvSetup.sh</b>](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh) file for environment setup.
