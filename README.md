@@ -58,7 +58,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - A sample configuration file <b>.env</b> exists in  project's home directory <b>/spCoinUniSwapTests</b>.
 - This file, <b>".env"</b> requires you key to be added for network access.
 - For example, an Infura key entry would look look like:
-  - <b>NFURA_API_MAIN_NET_ACCESS_KEY="<Your Infura Key Here></b>"
+  - <b>NFURA_API_MAIN_NET_ACCESS_KEY="Your Infura Key Here"</b>
 - Further environment settings exist in the file <b>/spCoinUniSwapTests/env/.e</b>.
  - - - - 
 ### Package Contents<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/contents.png" width="6%" align= "right">
