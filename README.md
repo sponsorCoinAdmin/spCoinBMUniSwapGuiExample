@@ -6,7 +6,7 @@ Find your way using our directory below:
 - [Legal Disclaimer & Copyright Agreement ©](#copyright-agreement)
 - [Repository](#repository-information)
 - [About](#about)
-- [Installation Documentation](#installation-details)
+- [Installation Documentation](#installation)
 - [Command Menu Shortcuts](#command-menu-shortcuts)
 - [Package Contents](#package-contents)
 - [Running the Package](#running-the-package)
@@ -44,7 +44,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - Purpose: [<b>spCoinUniSwap</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) is a WIP GUI front end package to demonstrate blockchain connectivity and transactions.
 - Description: [<b>spCoinUniSwap</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) package is a front end GUI package mimicking Uniswap's appearance and utilizing Uniswap’s SDK to perform price matching and trade transactions. 
  - - - -
-### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
+### Installation<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
 - Clone the package to your local computer:
 - Change your current directory to {root installaction}/[<b>spCoinUniSwapTests</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main)
@@ -53,7 +53,12 @@ Read all copyright clauses and information before continuing to download and/or 
 - <b>Notes:
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/.gitbash.rc file to and an environment path link
-
+### Environment setup<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/setup6.png" width="7%" align= "right">
+- Setup for the simple swap test requires setting up environment file .env.
+- To do so a key is required for network access.
+- For example, an Infura key entry would look look like:
+  - <b>NFURA_API_MAIN_NET_ACCESS_KEY="<Your Infura Key Here></b>"
+ - - - -
 ### Command Menu Shortcuts<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
 The <b>All Command Menus</b> are a list of shortcut alias commands for administering the [<b>'spCoinUniSwapTests'</b>](https://github.com/sponsorCoinAdmin/spCoinUniSwapTests/tree/main) project.
 - If the menu system is installed correctly, simply type short cut alias <b>'m \<enter>'</b> in a bash window and the following should appear:
