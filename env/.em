@@ -1,6 +1,6 @@
 clear
 echo "=========================================================================="
-echo "                     ALIAS ENVIRONMENT MENU SETTINGS"
+echo "         { spCoinUniSwapTests } ENVIRONMENT ALIAS MENU SETTINGS"
 echo "=========================================================================="
 cat  $SPONSOR_COIN_ENV/.ea
 echo "=========================================================================="
