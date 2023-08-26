@@ -16,13 +16,14 @@ const router = new AlphaRouter({ chainId: chainId, provider: web3Provider })
 
 let tokenName = 'Wrapped Ether'
 let tokenSymbol = 'WETH'
-let tokenAddress = '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6'
+// let tokenAddress = '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6'
+let tokenAddress = '0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14'
 
 const decimals0 = 18
 
 const spCoinName = 'Sponsor Coin'
-const spCoinSymbol = 'SPCoin'
-const spCoinAddress = '0x3Cb3d2655dB27d0ef62f0B77E0e13c06630317Ef'
+const spCoinSymbol = 'SPCT_V001'
+const spCoinAddress = '0xBabA55c7dcE20782fBe8B275216F16d262a70754'
 
 const decimals1 = 18
 

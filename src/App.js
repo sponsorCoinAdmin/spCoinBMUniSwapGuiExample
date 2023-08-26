@@ -70,7 +70,7 @@ function App() {
 
   const setConfigurations = () => {
 
-    let swapTitle = "Beneficary: Sponsor's Coin"
+    let swapTitle = "Beneficiary: Sponsor's Coin"
     swapTitle = ""
 
     if (swapTitle !== undefined && swapTitle.length > 0)
@@ -94,25 +94,25 @@ function App() {
     setTransactionState(TRANSACTION_STATE.PENDING)
     console.log("Executing:swap = async (transaction, signer)")
 
-    const tx =  runSwap(transaction, signer)
+    const tx =  await runSwap(transaction, signer)
     tx.then (tx => {processTransactionSuccess(tx)})
     .catch(tx => {processTransactionError(tx)});
   }
 
-const processTransactionSuccess = async (tx) => {
-    alert("SUCCESS => " + JSON.stringify(tx))
- console.log("SUCCESS => " + JSON.stringify(tx))
- let address = await signer.getAddress();
- await getBalances(address, tx)
- setTransactionState(TRANSACTION_STATE.COMPLETE)
-}
-
-const processTransactionError = async (tx) => {
-  setTransactionState(TRANSACTION_STATE.REJECTED)
-  //alert("ERROR => " + JSON.stringify(tx))
-  alert("ERROR => " + JSON.stringify(tx.reason))
-  console.log("ERROR => " + JSON.stringify(tx))
+  const processTransactionSuccess = async (tx) => {
+      alert("SUCCESS => " + JSON.stringify(tx))
+  console.log("SUCCESS => " + JSON.stringify(tx))
+  let address = await signer.getAddress();
+  await getBalances(address, tx)
   setTransactionState(TRANSACTION_STATE.COMPLETE)
+  }
+
+  const processTransactionError = async (tx) => {
+    setTransactionState(TRANSACTION_STATE.REJECTED)
+    //alert("ERROR => " + JSON.stringify(tx))
+    alert("ERROR => " + JSON.stringify(tx.reason))
+    console.log("ERROR => " + JSON.stringify(tx))
+    setTransactionState(TRANSACTION_STATE.COMPLETE)
 }
 
   const connect = async provider => {
@@ -120,7 +120,7 @@ const processTransactionError = async (tx) => {
     await provider.send("eth_requestAccounts", []);
     const signer = provider.getSigner();
     setSigner(signer)
-     if (signer !== undefined) {
+    if (signer !== undefined) {
       setIsConnected(true)
       setTransactionState(TRANSACTION_STATE.CONNECTED)
     }
@@ -131,9 +131,11 @@ const processTransactionError = async (tx) => {
   const getWalletAddress = () => {
     signer.getAddress()
       .then(address => {
+        // alert("Signer = "+ address)
+        console.log("Signer = ", address)
         setSignerAddress(address)
-        getBalances (address)
-       })
+        // getBalances (address)
+       });
   }
 
   const getBalances = async (address, tx) =>  {
@@ -159,9 +161,9 @@ const processTransactionError = async (tx) => {
   const getSwapPrice = (inputAmount) => {
     setLoading(true)
     setInputAmount(inputAmount)
-    const minThreashHold = 0;
+    const minThreshHold = 0;
 
-    if (inputAmount > minThreashHold) {
+    if (inputAmount > minThreshHold) {
       const swap = getPrice(
         inputAmount,
         slippageAmount,
@@ -238,6 +240,14 @@ const processTransactionError = async (tx) => {
               balance={spCoinAmount}
               spinner={BeatLoader}
               loading={loading} />
+            {/* <CurrencyField
+              field="output"
+              tokenName="SPCoin"
+              value={outputAmount}
+              signer={signer}
+              balance={spCoinAmount}
+              spinner={BeatLoader}
+              loading={loading} /> */}
           </div>
 
           <div className="ratioContainer">
