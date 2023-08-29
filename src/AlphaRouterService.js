@@ -6,12 +6,12 @@ const ERC20ABI = require('./interfaces/ABI.json')
 const SPCOINABI = require('./interfaces/SPCOIN_ABI.json')
 
 const V3_SWAP_ROUTER_ADDRESS = '0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45'
-const REACT_APP_INFURA_URL_TESTNET = process.env.REACT_APP_INFURA_URL_TESTNET
+const SEPOLIA_INFURA_TEST_URL = process.env.SEPOLIA_INFURA_TEST_URL
 
 // Goerli Test Net
 const chainId = 5
 
-const web3Provider = new ethers.providers.JsonRpcProvider(REACT_APP_INFURA_URL_TESTNET)
+const web3Provider = new ethers.providers.JsonRpcProvider(SEPOLIA_INFURA_TEST_URL)
 const router = new AlphaRouter({ chainId: chainId, provider: web3Provider })
 
 let tokenName = 'Wrapped Ether'
