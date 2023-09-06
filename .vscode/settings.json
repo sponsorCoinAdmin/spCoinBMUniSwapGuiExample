@@ -2,8 +2,10 @@
     "cSpell.words": [
         "hexlify",
         "JSBI",
+        "runserver",
         "SEPOLIA",
         "SPCOINABI",
-        "SPCT"
+        "SPCT",
+        "startserver"
     ]
 }
